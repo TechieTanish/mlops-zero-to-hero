@@ -110,3 +110,26 @@ Backend microservices
 MLOps pipelines
 
 This is what gets deployed.
+
+
+---
+
+## 🧠 My Learning Notes
+
+While understanding the steps to create a Machine Learning model, I realized that ML is not just about training once and predicting forever.
+
+My key takeaways:
+
+- A dataset is the backbone of the entire ML process.
+- Splitting data (80-20) helps us check whether the model actually learned or just memorized.
+- Choosing the right algorithm directly impacts prediction accuracy.
+- A model is created by mathematical functions during training.
+- Testing is mandatory because a trained model can still give wrong results.
+- Retraining is a normal and important part of ML when performance is poor.
+- Saving the model (.pkl, .joblib, .onnx) makes it reusable in real applications.
+- ML Engineers and Software Developers help move the model into production using APIs.
+
+I explained this topic in my own simple language on Hashnode to strengthen my understanding:
+
+👉 Blog: https://hashnode.com/edit/cmk3pjve5000202l56b3t56r7
+This documentation is part of my **MLOps Zero to Hero learning journey**, where I break down concepts step by step as I learn them.

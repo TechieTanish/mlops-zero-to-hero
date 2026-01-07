@@ -99,3 +99,29 @@ Data Scientist: Creates the model.
 ML Engineer: Turns the model into production code.
 
 MLOps Engineer: Builds the system that trains, deploys, scales, and monitors the model.
+
+---
+
+## 🧠 My Learning Notes
+
+After understanding the difference between Data Science, ML Engineering, and MLOps, I realized that these roles are not competitors — they complete each other.
+
+My key takeaways:
+
+- Data Scientists focus on problem understanding, data preparation, feature engineering, and model building.
+- ML Engineers convert trained models into production-ready applications by creating APIs and integrating them with software systems.
+- MLOps Engineers focus on automation, scalability, monitoring, and reliability of ML systems.
+- MLOps bridges the gap between experimentation and production.
+- Training pipelines help automate repetitive ML workflows.
+- Continuous Deployment ensures models are updated safely and faster.
+- Observability helps detect performance issues early.
+- Model registries keep versions safe and traceable.
+- Infrastructure tools like Terraform and Kubernetes make ML systems scalable and cost-efficient.
+
+In simple words, **MLOps enables Data Scientists and ML Engineers to ship models faster, safer, and at scale**.
+
+I explained this topic in my own simple language on Hashnode to clearly understand how these roles work together in real-world ML systems:
+
+👉 Blog: https://hashnode.com/edit/cmk3phnyc000602l2hf8ye9hq
+
+This repository is part of my **MLOps Zero to Hero learning journey**, where I focus on building a strong end-to-end understanding of ML systems.

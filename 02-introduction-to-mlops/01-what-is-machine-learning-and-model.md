@@ -67,3 +67,21 @@ Output: Species = Versicolor
 
 
 The model is simply applying what it learned earlier.
+
+
+---
+
+## 🧠 My Learning Notes
+
+While going through this topic, my key understanding was:
+
+- Machine Learning removes the need for writing endless if-else conditions.
+- The real power of ML lies in how data helps the algorithm find patterns on its own.
+- A trained model is nothing but a mathematical function that generalizes from data.
+
+I rewrote this topic in my own simple words on Hashnode to make sure I truly understand it:
+
+👉 Blog: https://hashnode.com/edit/cmk3pjdb5000202jraey25xuq
+
+
+This repository is part of my **MLOps Zero to Hero learning journey**, where I document concepts as I learn them step by step.

@@ -62,3 +62,27 @@ MLOps takes proven DevOps ideas and applies them to ML systems.
 | Monitoring services | Monitoring model performance |
 | Rollbacks | Model version rollback |
 | Automation | End-to-end ML lifecycle automation |
+
+
+---
+
+## 🧠 My Learning Notes
+
+After understanding MLOps, I realized that it is not a new concept but an evolution inspired by DevOps.
+
+My key learnings:
+
+- MLOps is essentially DevOps applied to Machine Learning workflows.
+- Just like DevOps automates software delivery, MLOps automates the ML model lifecycle.
+- Without MLOps, model training, testing, deployment, and infrastructure setup are mostly manual.
+- ML models rarely work well in the first iteration and require frequent retraining.
+- CI/CD helps automate model updates and deployments.
+- Infrastructure as Code (IaC) makes ML environments reproducible.
+- Observability is critical to track model performance in production.
+- Kubernetes helps scale and manage ML workloads efficiently.
+
+I explained this concept in my own simple words on Hashnode to clearly understand how DevOps and MLOps differ and coexist in real organizations:
+
+👉 Blog: https://hashnode.com/edit/cmk3pkiqd000202kz1989aqse
+
+This repository is part of my **MLOps Zero to Hero learning journey**, where I document concepts step by step as I learn them practically.

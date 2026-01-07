@@ -106,3 +106,27 @@ Retrain with new data.
 Update the pipeline when business logic or data changes.
 
 Version control for data, code, and models.
+
+---
+
+## 🧠 My Learning Notes
+
+While learning about the complete Machine Learning lifecycle, I understood that MLOps is not a single step but a continuous loop.
+
+My key understanding:
+
+- MLOps covers the entire journey from raw data to model monitoring in production.
+- Every stage in the ML lifecycle is interconnected.
+- Problem definition is important because a wrong problem leads to a wrong model.
+- Data quality directly impacts model accuracy.
+- Feature engineering helps models learn faster and predict better.
+- Model training and evaluation work together, not separately.
+- Retraining is normal when the model performance is not satisfactory.
+- Deployment is not the end — monitoring and maintenance are equally important.
+- The ML lifecycle is iterative, not a one-time process.
+
+I explained the complete ML lifecycle in my own simple language on Hashnode to ensure I truly understand how MLOps works end to end:
+
+👉 Blog: https://hashnode.com/edit/cmk3pl78d000502jm6jmp7fun
+
+This documentation is part of my **MLOps Zero to Hero learning journey**, where I focus on understanding and automating each stage of the ML lifecycle.
